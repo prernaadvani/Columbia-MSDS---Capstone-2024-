@@ -24,4 +24,4 @@ Evaluated gait speed on lumbar data using the Mobilise-d package ->
 Built the improved wrist model using labels from the Ionescu model and code from the OxWearables DCNN methodology ->
 Evaluated gait speed on wrist data using OLS methodology ->
 Created a poster for final presentations ->
-Wrote the final paper ->
+Wrote the final paper
